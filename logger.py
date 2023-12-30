@@ -1,1 +1,1 @@
-Hi, this file is to log the files
+Hi, this file is to log the files.
